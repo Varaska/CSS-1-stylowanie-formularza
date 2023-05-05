@@ -23,6 +23,9 @@ input[type="checkbox"] {
     width: auto;
 }
 
+#city {
+    width: 51.3%;
+}
 
 input:focus,
 select:focus,
